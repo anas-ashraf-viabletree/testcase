@@ -23,7 +23,7 @@ before(function (done) {
 
     return done();
   });
-});
+}); 
 
 // After all tests have finished...
 after((done) => {
